@@ -9,12 +9,12 @@ function App() {
         <h1 className="h3 mb-3 fw-normal">Sign in</h1>
         <div className="form-floating">
           <label>Email address: </label>
-          <br >
+          <br />
           <input type="email" className="form-control email" id="floatingInput" placeholder="name@example.com" />
         </div>
         <div className="form-floating">
           <label>Password:</label>
-          <br >
+          <br />
           <input type="password" className="form-control password" id="floatingPassword" placeholder="Password" />
         </div>
         <div className="checkbox mb-3">
